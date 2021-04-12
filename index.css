@@ -23,3 +23,11 @@ line-height: 150%;
 padding-top: 10px;
 padding-left: 60px;
 }
+.intro {
+    font-size: larger;
+    padding-bottom: 10px;
+    background: #c8c8c8;
+    border-left: solid 25px #4c0000;
+    margin-left: 10px;
+    padding-left: 25px;
+} 
