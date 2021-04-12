@@ -22,6 +22,11 @@ border-bottom: 2px red dotted;
 overflow: hidden;
 }
 p {
+     a {
+        color: #330000;
+        text-decoration: none;
+        border-bottom: 1px red dotted;
+    }
 color: #464646;
 line-height: 150%;
 padding-top: 10px;
